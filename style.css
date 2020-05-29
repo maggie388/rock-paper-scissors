@@ -377,7 +377,7 @@ body {
     top: 11px;
     left: 17px;
     display: block;
-    animation: pulse 0.2s both infinite alternate;
+    animation: pulse 0.3s both infinite alternate;
 }
 
 @keyframes pulse {

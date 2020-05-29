@@ -83,7 +83,7 @@ const makeSelection = (event) => {
                 resetButton.style.display = 'block'; 
             }
         }, 500)   
-    }, 1000)
+    }, 1500)
 };
 
 // ADD EVENT HANDLER TO HTML ELEMENTS //
